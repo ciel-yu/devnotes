@@ -14,3 +14,19 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+/build
+/target
+/dist
+/logs
+
+/tmp
+
+# Eclipse
+/.project
+/.classpath
+/.settings
+
+# Idea
+/.idea
+*.iml
