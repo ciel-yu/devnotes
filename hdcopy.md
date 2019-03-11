@@ -1,3 +1,9 @@
+- [HD-copy Image(.IMG) Format](#hd-copy-imageimg-format)
+	- [Header](#header)
+		- [v1](#v1)
+		- [v2](#v2)
+	- [Tracks data](#tracks-data)
+
 # HD-copy Image(.IMG) Format
 
 HD-Copy的镜像至少有两个版本，一个版本支持最多82磁道，另一个版本支持最多84磁道。
